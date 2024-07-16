@@ -43,7 +43,7 @@ export const CategoriesSection = ({ categories }: CategoriesSectionProps) => {
         responsive={{
           desktop: {
             breakpoint: { max: 5000, min: 1024 },
-            items: 6,
+            items: 5,
             slidesToSlide: 3,
             paritialVisibilityGutter: 80,
           },

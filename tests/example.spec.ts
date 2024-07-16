@@ -23,3 +23,5 @@ test('Order created', async ({ page }, testInfo) => {
 
   await page.waitForTimeout(3000)
 })
+
+// "chromatic": "npx chromatic --playwright -t=chpt_aee3ddfbd99f601",
