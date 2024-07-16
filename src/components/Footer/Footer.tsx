@@ -9,7 +9,7 @@ import appStoreBanner from '../../assets/images/appstore-banner.png'
 const FooterContainer = styled.div(
   ({ theme: { color } }) => css`
     min-height: 450px;
-    color: ${color.white};
+    color: ${color.black};
     background: ${color.footerBackground};
     padding: 2rem 0;
 
